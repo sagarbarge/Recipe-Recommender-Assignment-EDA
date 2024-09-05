@@ -1,5 +1,6 @@
 # Recipe-Recommender-Assignment-EDA
 Recipe Recommender Assignment EDA using Spark
+![image](https://github.com/user-attachments/assets/48e28077-0758-4116-8047-290556ad041f)
 
 # Problem Statement
 Step into the shoes of an ML engineer working at food.com. Your job is to design a recommender system to recommend recipes to users based on their choice and the current recipe they are looking at. 
